@@ -17,7 +17,19 @@ html {
 header {
     width: 100%;
     height: 80px;
-    background-color: bisque;
+    background-color: black;
+}
+
+.btn-header-cont {
+    float: right;
+    padding: .2em;
+}
+
+.btn-header {
+    background-color: #4a4a4a;
+    color: white;
+    padding: .3em;
+    border: none;
 }
 
 /* main */
